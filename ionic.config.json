@@ -1,0 +1,8 @@
+{
+  "name": "FixUp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c3233c5d"
+}
